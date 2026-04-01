@@ -30,6 +30,15 @@ claude-in-ppt-consulting/
     └── apply-layout/
         └── SKILL.md        # /apply-layout : 選択スライドをマスタに従いリデザイン
 ```
+## 動作環境 / Requirements
+
+| | 推奨 | 最低限 |
+|---|---|---|
+| プラン | Claude Max（Opus） | Claude Pro |
+| モデル | claude-opus-4 | claude-sonnet-4 |
+
+> スライド生成・スキル実行はトークン消費が大きいため、
+> Claude Pro 以上を推奨します。Max プランの Opus モデルが最も安定します。
 
 ## 使い方 / Usage
 
