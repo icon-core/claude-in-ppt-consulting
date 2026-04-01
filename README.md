@@ -56,12 +56,12 @@ claude-in-ppt-consulting/
 
 ### 3. スキルを追加する（任意）
 
-スキルは一度登録すれば永続的に使えます。
+1. [claude.ai](https://claude.ai) にログインする
+2. 左サイドバーの「カスタマイズ → スキル → ＋」を開く
+3. 追加したいスキルの `SKILL.md` の内容をコピーして貼り付け、保存する
+4. Claude in PPT を再起動すると `/update-toc` `/apply-layout` のコマンドで呼び出せます
 
-1. Claude in PPT の「カスタマイズ → スキル → ＋」を開く
-2. `skills/update-toc/SKILL.md` の内容をコピーして貼り付け、登録する
-3. 同様に `skills/apply-layout/SKILL.md` も登録する
-4. スライドを選択した状態でコマンドを入力する
+> 💡 `/skill-creator` を使うとスキルの改変・カスタマイズができます。
 
 | コマンド | 内容 |
 |---|---|
