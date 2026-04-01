@@ -57,8 +57,6 @@ claude-in-ppt-consulting/
 2. 設定アイコン → Instructions を開く
 3. `instructions.md` の内容をすべてコピーして貼り付ける
 
-![Instructions の設定方法（スクリーンショット準備中）]()
-
 ### 3. スキルを追加する（任意）
 
 1. [claude.ai](https://claude.ai) にログインする
