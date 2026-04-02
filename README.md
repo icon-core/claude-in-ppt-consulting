@@ -78,12 +78,16 @@ claude-in-ppt-consulting/
 
 ### 4. スライドを作成する
 
-Instructions を設定した状態で、Claude in PPT に自然言語で指示するだけです。
+- Instructions を設定した状態で、Claude in PPT に自然言語で指示するだけです。
 
 ```
 例：
 「Claude Code の説明資料をスライド3枚程度で作って」
 ```
+- DeepResearch 等のテキストデータのビジュアライズ、理解度向上にも相性がいいです。
+
+<img src="assets/sample-slide-3.png" width="450">
+
 
 ## 既知の制限・WIP
 
